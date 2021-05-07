@@ -48,6 +48,8 @@
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
+![](https://github.com/gzeinnumer/NotificationCount/blob/master/preview/example1.jpg)
+
 ---
 
 ```
