@@ -1,5 +1,7 @@
 # NotificationCount
 
+![](https://github.com/gzeinnumer/NotificationCount/blob/master/preview/example1.jpg.png)
+
 - [background_filled_red_radius.xml](https://github.com/gzeinnumer/NotificationCount/blob/master/app/src/main/res/drawable/background_filled_red_radius.xml)
  
 - activity_main.xml
@@ -47,8 +49,6 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
-![](https://github.com/gzeinnumer/NotificationCount/blob/master/preview/example1.jpg.png)
 
 ---
 
